@@ -8,7 +8,7 @@ npm install
 ### Then run it with 
 
 ```
-npm run start
+npm start
 ```
 
 ### Compiles and hot-reloads for development
